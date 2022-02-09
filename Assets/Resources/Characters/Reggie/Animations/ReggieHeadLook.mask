@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ReggieHeadLook
+  m_Mask: 01000000010000000000000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Hips
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L/Hand.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L/Hand.L/Fingers01.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L/Hand.L/Fingers01.L/Fingers02.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L/Hand.L/Fingers01.L/Fingers02.L/Fingers02.L_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L/Hand.L/Thumb01.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L/Hand.L/Thumb01.L/Thumb02.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.L/Upper Arm.L/Lower Ark.L/Hand.L/Thumb01.L/Thumb02.L/Thumb02.L_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001/Hand.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001/Hand.R.001/Fingers01.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001/Hand.R.001/Fingers01.R.001/Fingers02.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001/Hand.R.001/Fingers01.R.001/Fingers02.R.001/Fingers02.R.001_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001/Hand.R.001/Thumb01.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001/Hand.R.001/Thumb01.R.001/Thumb02.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Spine/Chest/Shoulder.R.001/Upper Arm.R.001/Lower Ark.R.001/Hand.R.001/Thumb01.R.001/Thumb02.R.001/Thumb02.R.001_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.L/Lower Leg.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.L/Lower Leg.L/Ankle.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.L/Lower Leg.L/Ankle.L/Foot.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.L/Lower Leg.L/Ankle.L/Foot.L/Toes.L
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.L/Lower Leg.L/Ankle.L/Foot.L/Toes.L/Toes.L_end
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.R.001/Lower Leg.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.R.001/Lower Leg.R.001/Ankle.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.R.001/Lower Leg.R.001/Ankle.R.001/Foot.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.R.001/Lower Leg.R.001/Ankle.R.001/Foot.R.001/Toes.R.001
+    m_Weight: 0
+  - m_Path: Armature/Hips/Upper Leg.R.001/Lower Leg.R.001/Ankle.R.001/Foot.R.001/Toes.R.001/Toes.R.001_end
+    m_Weight: 0
+  - m_Path: Armature/Leg IK.L
+    m_Weight: 0
+  - m_Path: Armature/Leg IK.L/Leg IK.L_end
+    m_Weight: 0
+  - m_Path: Armature/Leg IK.R.001
+    m_Weight: 0
+  - m_Path: Armature/Leg IK.R.001/Leg IK.R.001_end
+    m_Weight: 0
+  - m_Path: Armature/Pole Target.L
+    m_Weight: 0
+  - m_Path: Armature/Pole Target.L/Pole Target.L_end
+    m_Weight: 0
+  - m_Path: Armature/Pole Target.R.001
+    m_Weight: 0
+  - m_Path: Armature/Pole Target.R.001/Pole Target.R.001_end
+    m_Weight: 0
+  - m_Path: Cube.001
+    m_Weight: 0
