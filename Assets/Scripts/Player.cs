@@ -30,8 +30,8 @@ public class Player : MonoBehaviour
         {
             headTilt.forward = new Vector3(0, forward.y, forward.z);
 
-            animator.SetFloat("X", newPosition.x - transform.position.x);
-            animator.SetFloat("Z", newPosition.z - transform.position.z);
+            animator.SetFloat("X", (transform.InverseTransformPoint(newPosition)).x / Time.deltaTime);
+            animator.SetFloat("Z", (transform.InverseTransformPoint(newPosition)).z / Time.deltaTime);
             animator.SetFloat("HeadLookAngle", 0.5f + (forward.y / 2));
 
             transform.forward = new Vector3(forward.x, 0, forward.z);

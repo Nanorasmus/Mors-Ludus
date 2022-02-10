@@ -14,11 +14,11 @@ AvatarMask:
   - m_Path: Armature
     m_Weight: 0
   - m_Path: Armature/Hips
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: Armature/Hips/Spine
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: Armature/Hips/Spine/Chest
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: Armature/Hips/Spine/Chest/Neck
     m_Weight: 1
   - m_Path: Armature/Hips/Spine/Chest/Neck/Head
